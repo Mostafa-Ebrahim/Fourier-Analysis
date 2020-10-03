@@ -18,7 +18,7 @@ u0 = np.zeros_like(x)
 u0[int((L/2 - L/10)/dx):int((L/2 + L/10)/dx)] = 1
 u0hat = np.fft.fft(u0)
 
-#? SciPy's odeint function doesn't play well with complex numbers, so we recast the state u0hat from an N-element complex vector to a 2N-element real vector
+#! SciPy's odeint function doesn't play well with complex numbers, so we recast the state u0hat from an N-element complex vector to a 2N-element real vector
 u0hat_ri = np.concatenate((u0hat.real,u0hat.imag))
 
 #* Simulate in Fourier frequency domain

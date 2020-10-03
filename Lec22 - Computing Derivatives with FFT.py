@@ -1,7 +1,5 @@
 import numpy as np
 import matplotlib.pyplot as plt
-import datapane as dp
-
 
 #* Create the function and its derivative 
 n = 128

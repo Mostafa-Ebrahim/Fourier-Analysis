@@ -1,7 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-
 #* Creating simple signal with two frequencies
 dt = 0.001
 t = np.arange(0,1,dt)
