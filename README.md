@@ -1,5 +1,4 @@
 # Fourier-Analysis
-## Fourier analysis implementation codes for studying
 
 ### In this repository you will find:
 - Fourier series implementation
