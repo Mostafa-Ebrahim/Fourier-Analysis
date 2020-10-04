@@ -11,9 +11,7 @@
 - DFT matrix visualization
 
 <br>
+
 ---
 
-> [!TIP]
-> For more information and studying, watch this [**tutorial**](https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC)
-
-<!-- [**Fourier Analysis tutorial by Steve Brunton**](https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC) -->
+> For more information and studying, watch this [**Playlist**](https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC)
