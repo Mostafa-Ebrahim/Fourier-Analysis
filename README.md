@@ -12,6 +12,4 @@
 
 ---
 
-<br>
-
-> For more information and studying, watch this [**Playlist**](https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC)
+> **For more information and studying, watch this** [**Playlist**](https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC)
