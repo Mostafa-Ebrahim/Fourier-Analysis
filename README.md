@@ -1,7 +1,7 @@
 # Fourier-Analysis
 
 ### In this repository you will find:
-- *Fourier series implementation
+- Fourier series implementation
 - Gibbs phenomena visualization
 - DFT matrix visualization
 - Using FFT to:
